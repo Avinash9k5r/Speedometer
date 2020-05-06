@@ -1,0 +1,45 @@
+body {
+  background-image: url("wall1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Title */
+
+.title {
+  color: #fff;
+  margin: 2% 4%;
+  font-family: 'Righteous', cursive;
+
+}
+
+/* Left and Right Side */
+
+.left-side {
+  text-align: center;
+  margin-top: 100px;
+}
+.right-side {
+  text-align: center;
+  margin-top: 300px;
+}
+
+/* Speedometer Image */
+
+.speedimg {
+  width: 70%;
+  position: absolute;
+}
+
+/* Line */
+
+svg {
+  position: relative;
+}
+
+/* Show Numerical Speed */
+
+h3 {
+  margin-top: 100px;
+  color: #fff;
+}
